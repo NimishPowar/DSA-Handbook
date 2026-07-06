@@ -313,39 +313,4 @@ def max_profit(prices):
 
 ---
 
-# Patterns Learned Today
 
-| Question                      | Pattern           |
-| ----------------------------- | ----------------- |
-| Largest Element               | Running Maximum   |
-| Second Largest                | Running Maximum   |
-| Reverse Array                 | Two Pointers      |
-| Move Zeroes                   | Reader–Writer     |
-| Remove Duplicates             | Reader–Writer     |
-| Rotate Array                  | Shifting Elements |
-| Best Time to Buy & Sell Stock | Running Minimum   |
-
----
-
-# Tomorrow's Revision Plan
-
-Without looking at the solutions:
-
-1. Find Largest Element
-2. Find Second Largest Element
-3. Reverse an Array
-4. Move Zeroes
-5. Remove Duplicates from Sorted Array
-6. Rotate Array by One Position
-7. Best Time to Buy and Sell Stock
-
-Only check the solution if you're completely stuck.
-
-After finishing these, move on to:
-
-* Two Sum
-* Contains Duplicate
-* Valid Anagram
-* Intersection of Two Arrays
-
-These will introduce the **HashMap** pattern.
